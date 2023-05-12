@@ -8,6 +8,9 @@
 - [ShimmerEVM wallet address submission](wallet-address-submission)
 - [How to display the Soulbound Token in MetaMask](#display-sbt-in-metamask)
 - [Display Smart Contract Code on Shimmer testnet EVM Blockexplorer](https://explorer.evm.testnet.shimmer.network/address/0x3868B9e50f383FC37a8635672be6f1e7129b4551/contracts#address-tabs)
+- [Smart Contract GitHub Repository](https://github.com/tanglecon/tanglecon-soulbound-smartcontract)
+- [Access the ShimmerEVM testnet faucet and get free tokens](https://evm-toolkit.evm.testnet.shimmer.network/)
+
 
 ## Setting up MetaMask
 1. Download and install the [MetaMask extension](https://metamask.io/) in your web browser. <br />
@@ -36,6 +39,7 @@ Of course most people won’t opt in for the previous approach since it is a pos
 3. Next click on ```Add a network manually```
 ![Screenshot add custom Network](./media/6.png) <br />
 4. Now fill in the data provided just like in the screenshot and click on ```save``` <br />
+[Here is the official IOTA Wiki Article](https://evm-toolkit.evm.testnet.shimmer.network/) <br />
 ```
 # Network Name
 ShimmerEVM Testnet
