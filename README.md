@@ -68,6 +68,7 @@ https://explorer.evm.testnet.shimmer.network
 1. Click on your 42-character hexadecimal address and it will be automatically copied <br />
 ![Screenshot copy hex address](./media/12.png) <br />
 2. Now paste it into the attendance check poll, if you have been active during the whole 2 days of the event you will receive an Soulbound token as a thank you! <br />
+# NOTICE: THE WALLET SUBMISSION FOR THE TANGLECON23 HAS BEEN HALTED, YOU WILL BE ABLE TO SUMBIT IT FOR THE NEXT EVENT :)
 
 ## Display SBT in MetaMask
 Now comes the juicy part, we will be syncing the visual representation of the Soulbound token to your MetaMask. (This will only work if you are already holding the SBT in your wallet) <br />
